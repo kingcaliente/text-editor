@@ -43,7 +43,7 @@ This repository contains a text editor web application that fulfills the followi
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/text-editor-app.git`
+1. Clone this repository: `git clone https://github.com/kingcaliente/text-editor-app.git`
 2. Navigate to the project directory: `cd text-editor-app`
 3. Install the dependencies: `npm install`
 
